@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+    
+}
+.logo{
+    width: 20%;
+    height: 70px;
+    background-color: blue;
+    text-align: center;
+    color: beige;
+    float: left;
+    
+}
+.menu{
+    width: 80%;
+    height: 70px;
+    background-color:orangered;
+    color: beige;
+    text-align: center;
+    float: right;
+}
+.banner{
+    height: 80px;
+    background-color:darkgrey;
+    color: black;
+    text-align: center;
+    
+}
+.content{
+    overflow: hidden;
+
+}
+.left_content{
+    width: 50%;
+    background-color:green;
+    height: 400px;
+    float: left;
+    text-align: center;
+
+}
+.right_content{
+    width: 50%;
+    background-color:yellowgreen;
+    height: 400px;
+    float: right;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    height: 70px;
+    color:gold;
+    text-align: center;
+}

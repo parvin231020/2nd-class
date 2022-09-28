@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height:80px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.banner{
+    height: 80px;
+    background-color:darkgrey;
+    color: black;
+    text-align: center;
+    
+}
+.content{
+    overflow: hidden;
+
+}
+.left_content{
+    width: 33.3%;
+    background-color:green;
+    height: 400px;
+    float: left;
+    text-align: center;
+
+}
+.middle_content{
+    width: 33.3%;
+    background-color:yellow;
+    height: 400px;
+    float: left;
+    text-align: center;
+    
+
+}
+.right_content{
+    width: 33.3%;
+    background-color: crimson;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    height: 70px;
+    color:gold;
+    text-align: center;
+}
